@@ -2,11 +2,11 @@ lockfileVersion: 5.4
 
 specifiers:
   astro: next--telefunc
-  telefunc: ^0.1.40
+  telefunc: ^0.1.41
 
 dependencies:
   astro: 0.0.0-telefunc-20221130131719
-  telefunc: 0.1.40
+  telefunc: 0.1.41
 
 packages:
 
@@ -3243,8 +3243,8 @@ packages:
       tslib: 2.4.1
     dev: false
 
-  /telefunc/0.1.40:
-    resolution: {integrity: sha512-EagvTdddk7wvilh7AhwR2u738gdYqj/IEPjlTke5pzRLnejTxkBU3C24fMFIZagK7Qj4xcsaWX6LxgtR6tW6Hw==}
+  /telefunc/0.1.41:
+    resolution: {integrity: sha512-8Smu8uiLPFYhwFV3YVifmacQnsDAtYWcFLAoPiAN2ZWFd4b8rdr5PS4gbsTlNcvt4oiOSiZ04WjusYYecG7x0g==}
     engines: {node: '>=12.19.0'}
     peerDependencies:
       react: ^18.0.0

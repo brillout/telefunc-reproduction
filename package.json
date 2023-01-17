@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "astro": "next--telefunc",
-    "telefunc": "^0.1.40"
+    "telefunc": "^0.1.41"
   }
 }
